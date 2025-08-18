@@ -92,7 +92,10 @@ const Hero = () => {
               </Button>
               
               <Button variant="glow" size="lg" asChild>
-                <a href="#contact">
+                <a href="/resume.pdf">
+                   {/*download="Casmir_Maturi_Resume.pdf"*/}
+                   {/*target="_blank"*/}
+                   {/*rel="noopener noreferrer"*/}
                   <Download className="h-5 w-5" />
                   Download Resume
                 </a>
