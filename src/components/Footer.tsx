@@ -80,7 +80,7 @@ const Footer = () => {
 
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-muted-foreground flex items-center justify-center gap-2">
-            Made with <Heart className="h-4 w-4 text-red-500" /> by Casmir Muturi
+            Made by Casmir Muturi
           </p>
           <p className="text-sm text-muted-foreground mt-2">
             © {new Date().getFullYear()} All rights reserved.
