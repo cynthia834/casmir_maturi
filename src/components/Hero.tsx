@@ -46,7 +46,7 @@ const  Hero = () => {
                 <h1 className="text-5xl lg:text-7xl font-extrabold leading-tight">
                   <span className="block text-foreground">Hi, I'm</span>
                   <span className="block bg-gradient-to-r from-accent via-primary to-accent bg-clip-text text-transparent animate-gradient-x bg-300% font-black tracking-tight">
-                    Casmir Muturi
+                    Casmir Maturi
                   </span>
                 </h1>
               </div>
@@ -130,7 +130,7 @@ const  Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-accent to-primary rounded-full blur-2xl opacity-30 animate-glow-pulse"></div>
               <img
                 src={profileImage}
-                alt="Casmir Muturi - Data Scientist"
+                alt="Casmir Maturi - Data Scientist"
                 className="relative w-80 h-80 lg:w-96 lg:h-96 rounded-full object-cover shadow-2xl ring-4 ring-accent/20"
               />
             </div>
