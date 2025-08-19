@@ -3,7 +3,7 @@ import { Github, Linkedin, Download, ArrowRight, Brain, Code, Database, Lightbul
 import heroImage from "@/assets/hero-bg.jpg";
 import profileImage from "@/assets/casmir-profile.jpg";
 
-const Hero = () => {
+const  Hero = () => {
   return (
     <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
       {/* Tech-oriented Background */}

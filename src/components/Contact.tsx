@@ -97,8 +97,8 @@ const Contact = () => {
 
                     <Button variant="hero" className="w-full" size="lg" asChild>
                       <a 
-                        href="/casmir-muturi-resume.pdf" 
-                        download="Casmir_Muturi_Resume.pdf"
+                        href="/resume.pdf"
+                        download="/resume.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
