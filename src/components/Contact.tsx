@@ -95,9 +95,16 @@ const Contact = () => {
                       </Button>
                     </div>
 
-                    <Button variant="hero" className="w-full" size="lg">
-                      <Download className="h-5 w-5" />
-                      Download My Resume
+                    <Button variant="hero" className="w-full" size="lg" asChild>
+                      <a 
+                        href="/casmir-muturi-resume.pdf" 
+                        download="Casmir_Muturi_Resume.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <Download className="h-5 w-5" />
+                        Download My Resume
+                      </a>
                     </Button>
                   </div>
                 </CardContent>
