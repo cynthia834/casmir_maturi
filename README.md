@@ -3,7 +3,6 @@
 Welcome to my personal portfolio website
 This site showcases my journey, skills, and projects in **Data Science, Artificial Intelligence, and Machine Learning**.
 
-🔗 **Live Site:** [View Portfolio](https://lovable-face-fab.lovable.app/)
 
 ---
 
@@ -32,7 +31,6 @@ This portfolio highlights selected projects, my technical blog, and ways to conn
 - **HTML5, CSS3, JavaScript** – Styling and interactivity
 - **Python & Jupyter Notebooks** – For featured projects and case studies
 - **GitHub** – Hosting project repositories
-- **Deployment** – Hosted with [Lovable](https://lovable.app)
 
 ---
 
